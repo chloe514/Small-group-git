@@ -1,1 +1,2 @@
 git init: creates a new local repository in the current directory
+git diff HEAD Display the difference between the current directory and the last commit
